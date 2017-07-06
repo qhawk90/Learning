@@ -1,8 +1,9 @@
-# Administrative Stuff #
+# Custom Stuff #
 ###################
 id_rsa
 *.id_rsa.pub
 *.pub
+*.txt
 
 # Compiled source #
 ###################
